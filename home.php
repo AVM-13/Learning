@@ -1,5 +1,5 @@
 <?php
-$test   =  "learning purpose";
+$test = "learning purpose";
 
 ?>
 <!DOCTYPE html>
